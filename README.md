@@ -16,7 +16,7 @@ Com isso em mente, o grupo de profissionais de TI que assinam esse documento ent
  - Fernando Freitas Júnior   Desenvolvedor
  - Uirá Porã - Hacker e Servidor Público
  - Lucas M. A. Costa - Hacker, Pai e Engenheiro DevOps
-
+ - Hugo Prudente - Engenheiro DevOps
 
 ## Como assinar seu nome na lista? 
 
