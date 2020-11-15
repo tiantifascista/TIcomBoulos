@@ -12,18 +12,18 @@ Exemplos anteriores de candidaturas realmente de esquerdas nos fazem ter esperan
 
 Com isso em mente, o grupo de profissionais de TI que assinam esse documento entendem que as eleições da cidade de São Paulo em 2020 podem representar uma REAL resistência a essas posturas e posicionamentos no Brasil e a candidatura Boulos e Erundina 50 apresenta as propostas mais consistentes com o enfrentamento à grave crise que atravessamos. As propostas apresentadas trazem a construção dos instrumentos de política econômica e social necessários para reerguer a economia local e reduzir os efeitos da elevada miséria e desemprego.
 
- - Rafael Gomes - Engenheiro DevOps
- - Fernando Freitas Júnior - Desenvolvedor
- - Uirá Porã - Hacker e Servidor Público
- - Lucas M. A. Costa - Hacker, Pai e Engenheiro DevOps
- - Vitor Lobo Ramos - SRE e gamer nas horas vagas.
- - Hugo Prudente - Engenheiro DevOps
- - Julia Lamenza - Engenheira DevOps 
- - Camilla Martins - Senior Site Reliability Engineer 
- - Ana Paula Gomes - programadora
- - Braier Alves - Sys Admin
- - Eduardo Mendes - Hacker e Streamer
- - Ibirisol Fontes - Analista de redes e sistemas
+ - Rafael Gomes  Engenheiro DevOps
+ - Fernando Freitas Júnior  Desenvolvedor
+ - Uirá Porã  Hacker e Servidor Público
+ - Lucas M. A. Costa  Hacker, Pai e Engenheiro DevOps
+ - Vitor Lobo Ramos  SRE e gamer nas horas vagas.
+ - Hugo Prudente  Engenheiro DevOps
+ - Julia Lamenza  Engenheira DevOps 
+ - Camilla Martins  Senior Site Reliability Engineer 
+ - Ana Paula Gomes  programadora
+ - Braier Alves  Sys Admin
+ - Eduardo Mendes  Hacker e Streamer
+ - Ibirisol Fontes  Analista de redes e sistemas
 
 ## Como assinar seu nome na lista? 
 
