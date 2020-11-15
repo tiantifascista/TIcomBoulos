@@ -20,6 +20,7 @@ Com isso em mente, o grupo de profissionais de TI que assinam esse documento ent
  - Hugo Prudente - Engenheiro DevOps
  - Julia Lamenza - Engenheira DevOps 
  - Camilla Martins - Senior Site Reliability Engineer 
+ - Ana Paula Gomes - programadora
 
 ## Como assinar seu nome na lista? 
 
