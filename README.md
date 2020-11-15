@@ -19,6 +19,7 @@ Com isso em mente, o grupo de profissionais de TI que assinam esse documento ent
  - Vitor Lobo Ramos - SRE e gamer nas horas vagas.
  - Hugo Prudente - Engenheiro DevOps
  - Julia Lamenza - Engenheira DevOps 
+ - Camilla Martins - Senior Site Reliability Engineer 
 
 ## Como assinar seu nome na lista? 
 
