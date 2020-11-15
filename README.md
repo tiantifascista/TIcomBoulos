@@ -8,4 +8,9 @@ No grave momento que vivemos, precisamos de alguma resistência, precisamos nos 
 
 Com isso em mente, o grupo de profissionais de TI que assinam esse documento entendem que as eleições da cidade de São Paulo em 2020 podem representar uma REAL resistência a esse pensamento no Brasil e a candidatura Boulos e Erundina 50 apresenta as propostas mais consistentes com o enfrentamento à grave crise que atravessamos. As propostas apresentadas trazem a construção dos instrumentos de política econômica e social necessários para reerguer a economia local e reduzir os efeitos da elevada miséria e desemprego.
 
-Rafael Gomes   Engenheiro DevOps
+ - Rafael Gomes   Engenheiro DevOps
+
+
+## Como assinar seu nome na lista? 
+
+Faça um fork desse projeto, coloque seu nome abaixo do ultimo nome, coloque seu cargo (se quiser) e mande um PR. Se precisar de ajuda, crie uma issue aqui ou entre em contato com qualquer membro dessa lista. Essa pessoa vai lhe ajudar com certeza.
