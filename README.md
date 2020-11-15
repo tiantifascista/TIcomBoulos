@@ -8,7 +8,7 @@ No grave momento que vivemos, precisamos de alguma resistência, precisamos nos 
 
 Entendemos que a eleição está longe de ser a solução para o problema. Que somente com muita luta popular poderemos fazer as mudanças necessárias para que possamos ter um Brasil de fato para o povo e somente na rua podemos conquistar isso, mas as eleições existem, as pessoas são eleitas e elas governam os meios institucionais. 
 
-Exemplos anteriores de candidaturas realmente de esquerdas nos faz ter esperança que ao votar em pessoas que tenham claro compromisso nessa resistência, inclusive consciêntes que a via institucional não é a solução para todos os problemas.
+Exemplos anteriores de candidaturas realmente de esquerdas nos faz ter esperança que ao votar em pessoas que tenham claro compromisso nessa resistência, inclusive conscientes que a via institucional não é a solução para todos os problemas.
 
 Com isso em mente, o grupo de profissionais de TI que assinam esse documento entendem que as eleições da cidade de São Paulo em 2020 podem representar uma REAL resistência a esse pensamento no Brasil e a candidatura Boulos e Erundina 50 apresenta as propostas mais consistentes com o enfrentamento à grave crise que atravessamos. As propostas apresentadas trazem a construção dos instrumentos de política econômica e social necessários para reerguer a economia local e reduzir os efeitos da elevada miséria e desemprego.
 
