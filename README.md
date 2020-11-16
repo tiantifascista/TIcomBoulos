@@ -36,6 +36,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Alexsandro Francisco dos Santos - Engenheiro de Dados
  - Denis Costa - Programador
  - Nicolas Leal de Melo - CTO e Co-Founder
+ - João Claudio - Engenheiro DevOps
 
 ## Como assinar seu nome na lista? 
 
