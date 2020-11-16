@@ -52,6 +52,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Marcelle Vargas da Silva - Desenvolvedora web e mobile
  - Carlos Eduardo de Oliveira Nogueira - Engenheiro DevOps
  - Paulo Henrique Paracatu de Freitas Caetano - SysAdmin
+ - Eduardo Mercer - Engenheiro de software e pesquisador de HCI
  
 ## Como assinar seu nome na lista? 
 
