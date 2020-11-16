@@ -38,6 +38,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Nicolas Leal de Melo - CTO e Co-Founder
  - Eduardo Cuducos, sociólogo e desenvolvedor de software
  - João Claudio - Engenheiro DevOps
+ - Leandro Ramos - Desenvolvedor PHP/Drupal
 
 ## Como assinar seu nome na lista? 
 
