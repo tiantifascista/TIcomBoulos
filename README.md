@@ -29,6 +29,7 @@ Com isso em mente, o grupo de profissionais de TI que assinam esse documento ent
  - Marco Antonio Martins Junior  Peão as a Service, sysadmin, devops
  - Samanta Cicilia de Barros Souza, Tech Lead
  - Roberson Miguel dos Santos - Desenvolvedor Web
+ - Alexsandro Francisco dos Santos - Engenheiro de Dados
 
 ## Como assinar seu nome na lista? 
 
