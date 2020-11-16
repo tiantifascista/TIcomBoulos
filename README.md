@@ -39,6 +39,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Eduardo Cuducos, sociólogo e desenvolvedor de software
  - João Claudio - Engenheiro DevOps
  - Leandro Ramos - Desenvolvedor PHP/Drupal
+ - Giovane Liberato - Engenheiro de Software e Ciclista
 
 ## Como assinar seu nome na lista? 
 
