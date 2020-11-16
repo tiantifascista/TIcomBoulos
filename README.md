@@ -45,7 +45,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Cleverson Nahum - Engenheiro da Computação
  - Paulo Patto - Software Engineer & SRE
  - Diego Verissimo Lakatos - Cloud Engineer
- - Felipe Lima de Souza - Desenvolvedor web e mobile
+ - Felipe Lima de Souza - Desenvolvedor para web e mobile
  
 ## Como assinar seu nome na lista? 
 
