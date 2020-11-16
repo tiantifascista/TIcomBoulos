@@ -51,6 +51,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Tiago Angelo - Desenvolvedor
  - Marcelle Vargas da Silva - Desenvolvedora web e mobile
  - Carlos Eduardo de Oliveira Nogueira - Engenheiro DevOps
+ - Paulo Henrique Paracatu de Freitas Caetano - SysAdmin
  
 ## Como assinar seu nome na lista? 
 
