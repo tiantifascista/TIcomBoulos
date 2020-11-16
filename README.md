@@ -24,6 +24,7 @@ Com isso em mente, o grupo de profissionais de TI que assinam esse documento ent
  - Braier Alves  Sys Admin
  - Eduardo Mendes  Hacker e Streamer
  - Ibirisol Fontes  Analista de redes e sistemas
+ - Diego Neves Sysadmin, DevOps, NetAdmin
 
 ## Como assinar seu nome na lista? 
 
