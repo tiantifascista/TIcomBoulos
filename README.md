@@ -40,7 +40,8 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - João Claudio - Engenheiro DevOps
  - Leandro Ramos - Desenvolvedor PHP/Drupal
  - Giovane Liberato - Engenheiro de Software e Ciclista
-
+ - Pedro Silva - Engenheiro de Software e Escritor
+ 
 ## Como assinar seu nome na lista? 
 
 Faça um fork desse projeto, coloque seu nome abaixo do último nome, coloque seu cargo (se quiser) e mande um PR. Se precisar de ajuda, crie uma issue aqui ou entre em contato com qualquer membro dessa lista. Essa pessoa vai lhe ajudar com certeza.
