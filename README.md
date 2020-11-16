@@ -26,6 +26,7 @@ Com isso em mente, o grupo de profissionais de TI que assinam esse documento ent
  - Ibirisol Fontes  Analista de redes e sistemas
  - Diego Neves Sysadmin, DevOps, NetAdmin
  - Bruno Emanuel, SysAdmin, DBA, DevOps, Professor
+ - Marco Antonio Martins Junior  Peão as a Service, sysadmin, devops
 
 ## Como assinar seu nome na lista? 
 
