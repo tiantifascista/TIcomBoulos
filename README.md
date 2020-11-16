@@ -40,6 +40,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - João Claudio - Engenheiro DevOps
  - Leandro Ramos - Desenvolvedor PHP/Drupal
  - Giovane Liberato - Engenheiro de Software e Ciclista
+ - João Pedro Purcinelli - Desenvolvedor 
 
 ## Como assinar seu nome na lista? 
 
