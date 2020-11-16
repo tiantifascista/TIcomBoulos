@@ -25,6 +25,7 @@ Com isso em mente, o grupo de profissionais de TI que assinam esse documento ent
  - Eduardo Mendes  Hacker e Streamer
  - Ibirisol Fontes  Analista de redes e sistemas
  - Diego Neves Sysadmin, DevOps, NetAdmin
+ - Bruno Emanuel, SysAdmin, DBA, DevOps, Professor
 
 ## Como assinar seu nome na lista? 
 
