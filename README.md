@@ -28,6 +28,7 @@ Com isso em mente, o grupo de profissionais de TI que assinam esse documento ent
  - Bruno Emanuel, SysAdmin, DBA, DevOps, Professor
  - Marco Antonio Martins Junior  Peão as a Service, sysadmin, devops
  - Samanta Cicilia de Barros Souza, Tech Lead
+ - Roberson Miguel dos Santos - Desenvolvedor Web
 
 ## Como assinar seu nome na lista? 
 
