@@ -47,6 +47,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Diego Verissimo Lakatos - Cloud Engineer
  - Valéria Barros - Engenheira de Software e Tech Lead
  - Bruno Vaz - Consultor em API Management 
+ - Felipe Lima de Souza - Desenvolvedor para web e mobile
  
 ## Como assinar seu nome na lista? 
 
