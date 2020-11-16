@@ -43,6 +43,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Pedro Silva - Engenheiro de Software e Escritor
  - Aline Bastos - Front-End Software Engineer
  - Cleverson Nahum - Engenheiro da Computação
+ - Paulo Patto - Software Engineer & SRE
  - Diego Verissimo Lakatos - Cloud Engineer
  
 ## Como assinar seu nome na lista? 
