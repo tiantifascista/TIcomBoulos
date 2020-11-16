@@ -50,6 +50,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Felipe Lima de Souza - Desenvolvedor para web e mobile
  - Tiago Angelo - Desenvolvedor
  - Marcelle Vargas da Silva - Desenvolvedora web e mobile
+ - Carlos Eduardo de Oliveira Nogueira - Engenheiro DevOps
  
 ## Como assinar seu nome na lista? 
 
