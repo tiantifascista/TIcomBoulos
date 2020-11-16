@@ -46,6 +46,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Paulo Patto - Software Engineer & SRE
  - Diego Verissimo Lakatos - Cloud Engineer
  - Valéria Barros - Engenheira de Software e Tech Lead
+ - Bruno Vaz - Consultor em API Management 
  
 ## Como assinar seu nome na lista? 
 
