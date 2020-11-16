@@ -35,6 +35,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Roberson Miguel dos Santos - Desenvolvedor Web
  - Alexsandro Francisco dos Santos - Engenheiro de Dados
  - Denis Costa - Programador
+ - Nicolas Leal de Melo - CTO e Co-Founder
 
 ## Como assinar seu nome na lista? 
 
