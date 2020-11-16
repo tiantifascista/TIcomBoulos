@@ -49,6 +49,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Bruno Vaz - Consultor em API Management 
  - Felipe Lima de Souza - Desenvolvedor para web e mobile
  - Tiago Angelo - Desenvolvedor
+ - Marcelle Vargas da Silva - Desenvolvedora web e mobile
  
 ## Como assinar seu nome na lista? 
 
