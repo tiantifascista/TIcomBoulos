@@ -32,3 +32,9 @@ Com isso em mente, o grupo de profissionais de TI que assinam esse documento ent
 ## Como assinar seu nome na lista? 
 
 Faça um fork desse projeto, coloque seu nome abaixo do ultimo nome, coloque seu cargo (se quiser) e mande um PR. Se precisar de ajuda, crie uma issue aqui ou entre em contato com qualquer membro dessa lista. Essa pessoa vai lhe ajudar com certeza.
+
+## Vira SP com Boulos e Erundina
+
+- [Site oficial da Campanha](https://virasp.com.br/)
+
+
