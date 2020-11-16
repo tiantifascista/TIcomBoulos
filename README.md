@@ -53,6 +53,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Carlos Eduardo de Oliveira Nogueira - Engenheiro DevOps
  - Paulo Henrique Paracatu de Freitas Caetano - SysAdmin
  - Eduardo Mercer - Engenheiro de software e pesquisador de HCI
+ - Ariana Rodrigues Cursino - Desenvolvedora para web e mobile
  
 ## Como assinar seu nome na lista? 
 
