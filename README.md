@@ -60,6 +60,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - José Teles Maciel - Desenvolvedor Front-End
  - Marcelo Freire de Araújo Fernandes - Engenheiro DevOps
  - Renata Abreu - Desenvolvedora Back-end Java
+ - Arthur Furlan - CEO e Co-Founder
 
 ## Como assinar seu nome na lista? 
 
