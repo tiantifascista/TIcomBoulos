@@ -54,6 +54,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Paulo Henrique Paracatu de Freitas Caetano - SysAdmin
  - Eduardo Mercer - Engenheiro de software e pesquisador de HCI
  - Ariana Rodrigues Cursino - Desenvolvedora para web e mobile
+ - Marcelo Freire de Araújo Fernandes - Engenheiro DevOps
  
 ## Como assinar seu nome na lista? 
 
