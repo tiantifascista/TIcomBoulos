@@ -61,6 +61,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Marcelo Freire de Araújo Fernandes - Engenheiro DevOps
  - Renata Abreu - Desenvolvedora Back-end Java
  - Arthur Furlan - CEO e Co-Founder
+ - Pery Lemke - SRE Manager
 
 ## Como assinar seu nome na lista? 
 
