@@ -48,6 +48,12 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Valéria Barros - Engenheira de Software e Tech Lead
  - Bruno Vaz - Consultor em API Management 
  - Felipe Lima de Souza - Desenvolvedor para web e mobile
+ - Tiago Angelo - Desenvolvedor
+ - Marcelle Vargas da Silva - Desenvolvedora web e mobile
+ - Carlos Eduardo de Oliveira Nogueira - Engenheiro DevOps
+ - Paulo Henrique Paracatu de Freitas Caetano - SysAdmin
+ - Eduardo Mercer - Engenheiro de software e pesquisador de HCI
+ - Ariana Rodrigues Cursino - Desenvolvedora para web e mobile
  - Camilla Correia - Desenvolvedora front-end
  
 ## Como assinar seu nome na lista? 
