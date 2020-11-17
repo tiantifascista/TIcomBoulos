@@ -53,9 +53,15 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Carlos Eduardo de Oliveira Nogueira - Engenheiro DevOps
  - Paulo Henrique Paracatu de Freitas Caetano - SysAdmin
  - Eduardo Mercer - Engenheiro de software e pesquisador de HCI
- - Ariana Rodrigues Cursino - Desenvolvedora para web e mobile
+ - Ariana Rodrigues Cursino - Desenvolvedora para web e mobile 
+ - João Pedro Purcinelli - Desenvolvedor 
+ - Camilla Correia - Desenvolvedora front-end
+ - Marco Macarena - Desenvolver Web e Professor
+ - José Teles Maciel - Desenvolvedor Front-End
+ - Marcelo Freire de Araújo Fernandes - Engenheiro DevOps
+ - Renata Abreu - Desenvolvedora Back-end Java
  - Arthur Furlan - CEO e Co-Founder
- 
+
 ## Como assinar seu nome na lista? 
 
 Faça um fork desse projeto, coloque seu nome abaixo do último nome, coloque seu cargo (se quiser) e mande um PR. Se precisar de ajuda, crie uma issue aqui ou entre em contato com qualquer membro dessa lista. Essa pessoa vai lhe ajudar com certeza.
