@@ -54,7 +54,14 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Paulo Henrique Paracatu de Freitas Caetano - SysAdmin
  - Eduardo Mercer - Engenheiro de software e pesquisador de HCI
  - Ariana Rodrigues Cursino - Desenvolvedora para web e mobile
- - Wellingthon Queiroz (Tony Dias) CTO, CISO, Software Engineer
+ - João Pedro Purcinelli - Desenvolvedor 
+ - Camilla Correia - Desenvolvedora front-end
+ - Marco Macarena - Desenvolver Web e Professor
+ - José Teles Maciel - Desenvolvedor Front-End
+ - Marcelo Freire de Araújo Fernandes - Engenheiro DevOps
+ - Renata Abreu - Desenvolvedora Back-end Java
+ - Arthur Furlan - CEO e Co-Founder
+  - Wellingthon Queiroz (Tony Dias) CTO, CISO, Software Engineer
 
 ## Como assinar seu nome na lista? 
 
