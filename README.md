@@ -16,27 +16,27 @@ As propostas apresentadas trazem a construção dos instrumentos de política ec
 
 E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos governos com base em ódio, desinformação e necropolítica: Boulos e Erundina respeitam e defendem os direitos humanos e as instituições que são pilares das democracias modernas.
 
- - Rafael Gomes  Engenheiro DevOps
- - Fernando Freitas Júnior  Desenvolvedor
- - Uirá Porã  Hacker e Servidor Público
- - Lucas M. A. Costa  Hacker, Pai e Engenheiro DevOps
- - Vitor Lobo Ramos  SRE e gamer nas horas vagas.
- - Hugo Prudente  Engenheiro DevOps
- - Julia Lamenza  Engenheira DevOps 
- - Camilla Martins  Senior Site Reliability Engineer 
- - Ana Paula Gomes  programadora
- - Braier Alves  Sys Admin
- - Eduardo Mendes  Hacker e Streamer
- - Ibirisol Fontes  Analista de redes e sistemas
- - Diego Neves Sysadmin, DevOps, NetAdmin
- - Bruno Emanuel, SysAdmin, DBA, DevOps, Professor
- - Marco Antonio Martins Junior  Peão as a Service, sysadmin, devops
- - Samanta Cicilia de Barros Souza, Tech Lead
+ - Rafael Gomes - Engenheiro DevOps
+ - Fernando Freitas Júnior - Desenvolvedor
+ - Uirá Porã - Hacker e Servidor Público
+ - Lucas M. A. Costa - Hacker, Pai e Engenheiro DevOps
+ - Vitor Lobo Ramos - SRE e gamer nas horas vagas.
+ - Hugo Prudente - Engenheiro DevOps
+ - Julia Lamenza - Engenheira DevOps 
+ - Camilla Martins - Senior Site Reliability Engineer 
+ - Ana Paula Gomes - Programadora
+ - Braier Alves - Sys Admin
+ - Eduardo Mendes - Hacker e Streamer
+ - Ibirisol Fontes - Analista de redes e sistemas
+ - Diego Neves - Sysadmin, DevOps, NetAdmin
+ - Bruno Emanuel - SysAdmin, DBA, DevOps, Professor
+ - Marco Antonio Martins Junior - Peão as a Service, sysadmin, devops
+ - Samanta Cicilia de Barros Souza - Tech Lead
  - Roberson Miguel dos Santos - Desenvolvedor Web
  - Alexsandro Francisco dos Santos - Engenheiro de Dados
  - Denis Costa - Programador
  - Nicolas Leal de Melo - CTO e Co-Founder
- - Eduardo Cuducos, sociólogo e desenvolvedor de software
+ - Eduardo Cuducos - sociólogo e desenvolvedor de software
  - João Claudio - Engenheiro DevOps
  - Leandro Ramos - Desenvolvedor PHP/Drupal
  - Giovane Liberato - Engenheiro de Software e Ciclista
