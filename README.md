@@ -61,6 +61,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Marcelo Freire de Araújo Fernandes - Engenheiro DevOps
  - Renata Abreu - Desenvolvedora Back-end Java
  - Arthur Furlan - CEO e Co-Founder
+ - Ricardo Yasuda - Desenvolvedor de Software
 
 ## Como assinar seu nome na lista? 
 
