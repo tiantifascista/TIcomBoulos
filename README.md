@@ -54,7 +54,8 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Paulo Henrique Paracatu de Freitas Caetano - SysAdmin
  - Eduardo Mercer - Engenheiro de software e pesquisador de HCI
  - Ariana Rodrigues Cursino - Desenvolvedora para web e mobile
- 
+ - Wellingthon Queiroz (Tony Dias) CTO, CISO, Software Engineer
+
 ## Como assinar seu nome na lista? 
 
 Faça um fork desse projeto, coloque seu nome abaixo do último nome, coloque seu cargo (se quiser) e mande um PR. Se precisar de ajuda, crie uma issue aqui ou entre em contato com qualquer membro dessa lista. Essa pessoa vai lhe ajudar com certeza.
