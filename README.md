@@ -61,6 +61,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Marcelo Freire de Araújo Fernandes - Engenheiro DevOps
  - Renata Abreu - Desenvolvedora Back-end Java
  - Arthur Furlan - CEO e Co-Founder
+ - João Pedro Netto - Desenvolvedor e Cofounder
 
 ## Como assinar seu nome na lista? 
 
