@@ -58,6 +58,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Camilla Correia - Desenvolvedora front-end
  - Marco Macarena - Desenvolver Web e Professor
  - José Teles Maciel - Desenvolvedor Front-End
+ - Marcelo Freire de Araújo Fernandes - Engenheiro DevOps
 
 ## Como assinar seu nome na lista? 
 
