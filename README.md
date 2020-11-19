@@ -62,6 +62,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Renata Abreu - Desenvolvedora Back-end Java
  - Arthur Furlan - CEO e Co-Founder
  - Arthur Julião - Engenheiro de Dados
+ - Enzo Milanese - Desenvolvedor trainee e criador de jogos
 
 ## Como assinar seu nome na lista? 
 
