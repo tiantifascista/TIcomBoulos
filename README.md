@@ -62,6 +62,8 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Renata Abreu - Desenvolvedora Back-end Java
  - Arthur Furlan - CEO e Co-Founder
  - Arthur Julião - Engenheiro de Dados
+ - Leandro Augusto M. Rocha - Desenvolvedor Salesforce
+
 
 ## Como assinar seu nome na lista? 
 
