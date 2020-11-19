@@ -61,8 +61,8 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Marcelo Freire de Araújo Fernandes - Engenheiro DevOps
  - Renata Abreu - Desenvolvedora Back-end Java
  - Arthur Furlan - CEO e Co-Founder
- - Arthur Julião - Engenheiro de Dados
-
+ - Jean Carlo Nascimento - Desenvolvedor Web
+ 
 ## Como assinar seu nome na lista? 
 
 Faça um fork desse projeto, coloque seu nome abaixo do último nome, coloque seu cargo (se quiser) e mande um PR. Se precisar de ajuda, crie uma issue aqui ou entre em contato com qualquer membro dessa lista. Essa pessoa vai lhe ajudar com certeza.
