@@ -71,6 +71,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Douglas Monteiro - Desenvolvedor Front End
  - Clara Anna Rosa Dias de Miranda - Engenheira de Dados
  - Guilherme Nogueira - Desenvolvedor de Software e Organizador do Elug-SP 
+ - Romulo Gabriel Rodrigues - Desenvolvedor
 
 ## Como assinar seu nome na lista?
 
