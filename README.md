@@ -64,6 +64,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Arthur Julião - Engenheiro de Dados
  - Wellingthon Queiroz (Tony Dias) CTO, CISO, Software Engineer
  - Ricardo Yasuda - Desenvolvedor de Software
+ - Filipe Saraiva - Professor e militante do software livre
 
 ## Como assinar seu nome na lista?
 
