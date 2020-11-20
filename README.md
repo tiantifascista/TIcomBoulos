@@ -74,6 +74,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Romulo Gabriel Rodrigues - Desenvolvedor
  - Jean Carlo Nascimento - Desenvolvedor Web
  - Bruno C. Rocha - Programador e Streamer
+ - André "decko" de Brito - Programador utópico
 
 ## Como assinar seu nome na lista?
 
