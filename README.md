@@ -76,6 +76,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Bruno C. Rocha - Programador e Streamer
  - Thiago Castro - SysAdmin Senior
  - Ítalo Drago - Front-end
+ - Hermes Caretta - dev front-end
 
 ## Como assinar seu nome na lista?
 
