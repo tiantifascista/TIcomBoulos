@@ -80,6 +80,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Renata Scheibler - Técnica em Informática para Internet / Desenvolvedora
  - Enzo Milanese - Desenvolvedor trainee e criador de jogos
  - Lucas Inocente - Desenvolvedor
+ - Leandro Augusto M. Rocha - Desenvolvedor Salesforce
 
 ## Como assinar seu nome na lista?
 
