@@ -72,6 +72,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Clara Anna Rosa Dias de Miranda - Engenheira de Dados
  - Guilherme Nogueira - Desenvolvedor de Software e Organizador do Elug-SP 
  - Romulo Gabriel Rodrigues - Desenvolvedor
+ - Jean Carlo Nascimento - Desenvolvedor Web
 
 ## Como assinar seu nome na lista?
 
