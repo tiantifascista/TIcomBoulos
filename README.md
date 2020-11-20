@@ -66,6 +66,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Ricardo Yasuda - Desenvolvedor de Software
  - Filipe Saraiva - Professor e militante do software livre
  - João Pedro Netto - Desenvolvedor e Cofounder
+ - Pery Lemke - SRE Manager
 
 ## Como assinar seu nome na lista?
 
