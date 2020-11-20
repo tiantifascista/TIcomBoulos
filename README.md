@@ -79,6 +79,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Hermes Caretta - dev front-end
  - Renata Scheibler - Técnica em Informática para Internet / Desenvolvedora
  - Enzo Milanese - Desenvolvedor trainee e criador de jogos
+ - Lucas Inocente - Desenvolvedor
 
 ## Como assinar seu nome na lista?
 
