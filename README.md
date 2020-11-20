@@ -78,6 +78,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Ítalo Drago - Front-end
  - Hermes Caretta - dev front-end
  - Renata Scheibler - Técnica em Informática para Internet / Desenvolvedora
+ - Enzo Milanese - Desenvolvedor trainee e criador de jogos
 
 ## Como assinar seu nome na lista?
 
