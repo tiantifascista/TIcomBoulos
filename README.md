@@ -46,24 +46,30 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Paulo Patto - Software Engineer & SRE
  - Diego Verissimo Lakatos - Cloud Engineer
  - Valéria Barros - Engenheira de Software e Tech Lead
- - Bruno Vaz - Consultor em API Management 
+ - Bruno Vaz - Consultor em API Management
  - Felipe Lima de Souza - Desenvolvedor para web e mobile
  - Tiago Angelo - Desenvolvedor
  - Marcelle Vargas da Silva - Desenvolvedora web e mobile
  - Carlos Eduardo de Oliveira Nogueira - Engenheiro DevOps
  - Paulo Henrique Paracatu de Freitas Caetano - SysAdmin
  - Eduardo Mercer - Engenheiro de software e pesquisador de HCI
- - Ariana Rodrigues Cursino - Desenvolvedora para web e mobile 
- - João Pedro Purcinelli - Desenvolvedor 
+ - Ariana Rodrigues Cursino - Desenvolvedora para web e mobile
+ - João Pedro Purcinelli - Desenvolvedor
  - Camilla Correia - Desenvolvedora front-end
  - Marco Macarena - Desenvolver Web e Professor
  - José Teles Maciel - Desenvolvedor Front-End
  - Marcelo Freire de Araújo Fernandes - Engenheiro DevOps
  - Renata Abreu - Desenvolvedora Back-end Java
  - Arthur Furlan - CEO e Co-Founder
+ - Arthur Julião - Engenheiro de Dados
+ - Wellingthon Queiroz (Tony Dias) CTO, CISO, Software Engineer
+ - Ricardo Yasuda - Desenvolvedor de Software
+ - Filipe Saraiva - Professor e militante do software livre
+ - João Pedro Netto - Desenvolvedor e Cofounder
+ - Pery Lemke - SRE Manager
  - Lucas da Gama Pereira Fraga - QA Engineer
 
-## Como assinar seu nome na lista? 
+## Como assinar seu nome na lista?
 
 Faça um fork desse projeto, coloque seu nome abaixo do último nome, coloque seu cargo (se quiser) e mande um PR. Se precisar de ajuda, crie uma issue aqui ou entre em contato com qualquer membro dessa lista. Essa pessoa vai lhe ajudar com certeza.
 
