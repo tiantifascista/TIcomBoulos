@@ -65,6 +65,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Wellingthon Queiroz (Tony Dias) CTO, CISO, Software Engineer
  - Ricardo Yasuda - Desenvolvedor de Software
  - Filipe Saraiva - Professor e militante do software livre
+ - João Pedro Netto - Desenvolvedor e Cofounder
 
 ## Como assinar seu nome na lista?
 
