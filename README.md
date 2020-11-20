@@ -73,6 +73,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Guilherme Nogueira - Desenvolvedor de Software e Organizador do Elug-SP 
  - Romulo Gabriel Rodrigues - Desenvolvedor
  - Jean Carlo Nascimento - Desenvolvedor Web
+ - Bruno C. Rocha - Programador e Streamer
 
 ## Como assinar seu nome na lista?
 
