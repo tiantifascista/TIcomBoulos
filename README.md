@@ -63,6 +63,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Arthur Furlan - CEO e Co-Founder
  - Arthur Julião - Engenheiro de Dados
  - Wellingthon Queiroz (Tony Dias) CTO, CISO, Software Engineer
+ - Ricardo Yasuda - Desenvolvedor de Software
 
 ## Como assinar seu nome na lista?
 
