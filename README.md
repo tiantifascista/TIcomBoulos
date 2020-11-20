@@ -68,6 +68,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - João Pedro Netto - Desenvolvedor e Cofounder
  - Pery Lemke - SRE Manager
  - Lucas da Gama Pereira Fraga - QA Engineer
+ - Douglas Monteiro - Desenvolvedor Front End
 
 ## Como assinar seu nome na lista?
 
