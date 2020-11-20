@@ -75,6 +75,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Jean Carlo Nascimento - Desenvolvedor Web
  - Bruno C. Rocha - Programador e Streamer
  - Thiago Castro - SysAdmin Senior
+ - Ítalo Drago - Front-end
 
 ## Como assinar seu nome na lista?
 
