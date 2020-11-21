@@ -81,6 +81,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Enzo Milanese - Desenvolvedor trainee e criador de jogos
  - Lucas Inocente - Desenvolvedor
  - Leandro Augusto M. Rocha - Desenvolvedor Salesforce
+ - Rafael da Guia - Desenvolvedor e Analista de Dados
 
 ## Como assinar seu nome na lista?
 
