@@ -81,6 +81,19 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Enzo Milanese - Desenvolvedor trainee e criador de jogos
  - Lucas Inocente - Desenvolvedor
  - Leandro Augusto M. Rocha - Desenvolvedor Salesforce
+ - Lucas Marçal - Desenvolvedor Web e Co Founder
+ - Giovanni Bassi - Programador
+ - Leonardo Quevedo - Engenheiro de Software (Javacript + Mobile + FullStack)
+ - André "decko" de Brito - Programador utópico
+ - Rafael Jesus - Senior Site Reliability Engineer
+ - Diogo Valim - Desenvolvedor
+ - Thaiane Braga - Engenheira de Software
+ - Enieber C. Silva - Desenvolvedor open source
+ - Luciano Queiroz - Engenheiro de Software
+ - Guilherme Torres Castro - Gerente de Engenharia - Positivo soluções didáticas
+ - Marcelo Daudt - Analista e Desenvolvedor de Sistemas
+ - Edmilson Soares Bezerra - Desenvolvedor FullStack (Node/React/React Native)
+ - Marcos Oliveira Jr - Engenheiro de Dados
  - Rafael da Guia - Desenvolvedor e Analista de Dados
 
 ## Como assinar seu nome na lista?
