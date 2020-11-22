@@ -89,6 +89,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Diogo Valim - Desenvolvedor
  - Thaiane Braga - Engenheira de Software
  - Enieber C. Silva - Desenvolvedor open source
+ - Luciano Queiroz - Engenheiro de Software
 
 ## Como assinar seu nome na lista?
 
