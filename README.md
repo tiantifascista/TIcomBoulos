@@ -93,6 +93,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Guilherme Torres Castro - Gerente de Engenharia - Positivo soluções didáticas
  - Marcelo Daudt - Analista e Desenvolvedor de Sistemas
  - Edmilson Soares Bezerra - Desenvolvedor FullStack (Node/React/React Native)
+ - Marcos Oliveira Jr - Engenheiro de Dados
 
 ## Como assinar seu nome na lista?
 
