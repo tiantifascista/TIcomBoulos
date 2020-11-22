@@ -88,6 +88,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Rafael Jesus - Senior Site Reliability Engineer
  - Diogo Valim - Desenvolvedor
  - Thaiane Braga - Engenheira de Software
+ - Enieber C. Silva - Desenvolvedor open source
 
 ## Como assinar seu nome na lista?
 
