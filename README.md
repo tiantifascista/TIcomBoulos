@@ -84,6 +84,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Lucas Marçal - Desenvolvedor Web e Co Founder
  - Giovanni Bassi - Programador
  - Leonardo Quevedo - Engenheiro de Software (Javacript + Mobile + FullStack)
+ - André "decko" de Brito - Programador utópico
 
 ## Como assinar seu nome na lista?
 
