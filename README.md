@@ -82,6 +82,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Lucas Inocente - Desenvolvedor
  - Leandro Augusto M. Rocha - Desenvolvedor Salesforce
  - Lucas Marçal - Desenvolvedor Web e Co Founder
+ - Giovanni Bassi - Programador
 
 ## Como assinar seu nome na lista?
 
