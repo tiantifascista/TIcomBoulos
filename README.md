@@ -94,6 +94,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Marcelo Daudt - Analista e Desenvolvedor de Sistemas
  - Edmilson Soares Bezerra - Desenvolvedor FullStack (Node/React/React Native)
  - Marcos Oliveira Jr - Engenheiro de Dados
+ - Rafael da Guia - Desenvolvedor e Analista de Dados
 
 ## Como assinar seu nome na lista?
 
