@@ -83,6 +83,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Leandro Augusto M. Rocha - Desenvolvedor Salesforce
  - Lucas Marçal - Desenvolvedor Web e Co Founder
  - Giovanni Bassi - Programador
+ - Leonardo Quevedo - Engenheiro de Software (Javacript + Mobile + FullStack)
 
 ## Como assinar seu nome na lista?
 
