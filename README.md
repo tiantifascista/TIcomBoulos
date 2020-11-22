@@ -85,6 +85,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Giovanni Bassi - Programador
  - Leonardo Quevedo - Engenheiro de Software (Javacript + Mobile + FullStack)
  - André "decko" de Brito - Programador utópico
+ - Rafael Jesus - Senior Site Reliability Engineer
 
 ## Como assinar seu nome na lista?
 
