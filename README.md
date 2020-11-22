@@ -91,6 +91,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Enieber C. Silva - Desenvolvedor open source
  - Luciano Queiroz - Engenheiro de Software
  - Guilherme Torres Castro - Gerente de Engenharia - Positivo soluções didáticas
+ - Marcelo Daudt - Analista e Desenvolvedor de Sistemas
 
 ## Como assinar seu nome na lista?
 
