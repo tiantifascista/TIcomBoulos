@@ -74,6 +74,17 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Romulo Gabriel Rodrigues - Desenvolvedor
  - Jean Carlo Nascimento - Desenvolvedor Web
  - Bruno C. Rocha - Programador e Streamer
+ - Thiago Castro - SysAdmin Senior
+ - Ítalo Drago - Front-end
+ - Hermes Caretta - dev front-end
+ - Renata Scheibler - Técnica em Informática para Internet / Desenvolvedora
+ - Enzo Milanese - Desenvolvedor trainee e criador de jogos
+ - Lucas Inocente - Desenvolvedor
+ - Leandro Augusto M. Rocha - Desenvolvedor Salesforce
+ - Lucas Marçal - Desenvolvedor Web e Co Founder
+ - Giovanni Bassi - Programador
+ - Leonardo Quevedo - Engenheiro de Software (Javacript + Mobile + FullStack)
+ - André "decko" de Brito - Programador utópico
  - Rafael Jesus - Senior Site Reliability Engineer
 
 ## Como assinar seu nome na lista?
