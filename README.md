@@ -87,6 +87,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - André "decko" de Brito - Programador utópico
  - Rafael Jesus - Senior Site Reliability Engineer
  - Diogo Valim - Desenvolvedor
+ - Thaiane Braga - Engenheira de Software
 
 ## Como assinar seu nome na lista?
 
