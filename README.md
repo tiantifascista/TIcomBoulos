@@ -90,6 +90,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Thaiane Braga - Engenheira de Software
  - Enieber C. Silva - Desenvolvedor open source
  - Luciano Queiroz - Engenheiro de Software
+ - Guilherme Torres Castro - Gerente de Engenharia - Positivo soluções didáticas
 
 ## Como assinar seu nome na lista?
 
