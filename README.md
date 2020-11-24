@@ -95,6 +95,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Edmilson Soares Bezerra - Desenvolvedor FullStack (Node/React/React Native)
  - Marcos Oliveira Jr - Engenheiro de Dados
  - Rafael da Guia - Desenvolvedor e Analista de Dados
+ - Elismar Luz - Hacker
 
 ## Como assinar seu nome na lista?
 
