@@ -96,6 +96,7 @@ E, por fim, acreditamos que passamos uma mensagem de esperança em meio a tantos
  - Marcos Oliveira Jr - Engenheiro de Dados
  - Rafael da Guia - Desenvolvedor e Analista de Dados
  - Elismar Luz - Hacker
+ - Gabrielle Arruda - Engenheira de Dados e Software
 
 ## Como assinar seu nome na lista?
 
